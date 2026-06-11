@@ -21,6 +21,6 @@ Create a top 10 list AI projects that will inspire newbies and more experienced 
 
 Convert the  AI Workshop guide using a single Word (.docx) document that can be downloaded
 
-Use Word native table of contents and remove all refences to github source e.g. [AI Interfaces](guide/01-ai-interfaces.md); or Next: [LLM History](02-llm-history.md);  try to avoid topics, code blocks, tables, sections, chapters from spanning page breaks; use Arial 11pt for the body text font
+Use Word native table of contents and remove all references to github source e.g. [AI Interfaces](guide/01-ai-interfaces.md); or Next: [LLM History](02-llm-history.md);  try to avoid topics, code blocks, tables, sections, chapters from spanning page breaks; use Arial 11pt for the body text font
 
 Before creating any code, enter plan mode
