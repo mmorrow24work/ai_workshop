@@ -1,5 +1,7 @@
 Create a repo called https://github.com/mmorrow24work/ai_workshop
+
 Create a zero to hero guide that introduces newbies to the following topics:
+
 - AI interfaces - IDE vs WSL2 command line vs browser vs desktop application vs API vs MCP
 - LLM history
 - Frontier LLM's in 2026
@@ -14,5 +16,7 @@ Create a zero to hero guide that introduces newbies to the following topics:
 - 3 additional topics that are not mentioned already to overcome any blindspots
 
 Create a top 10 list of must-watch YouTube channels that will help newbies get up to speed and learn about the topics in the zero to hero guide
+
 Create a top 10 list AI projects that will inspire newbies and more experienced IT engineers to learn about AI
+
 Before creating any code, enter plan mode
